@@ -67,6 +67,8 @@ class m151121_092310_i18n_es_yee extends TranslatedMessagesMigration
             'Invalid settings for dashboard widgets' => 'Configuraciones inválidas para los widgets del tablero',
             'Key' => 'Llave',
             'Label' => 'Etiqueta',
+            'Class' => 'Clase',
+            'This is optional. Useful for design or some special purposes.' => 'Esto es opcional. Útil para diseño o algunos propósitos especiales.',
             'Language' => 'Lenguaje',
             'Link ID can only contain lowercase alphanumeric characters, underscores and dashes.' => 'El ID del enlace solo puede contener caracteres alfanuméricos en minúsculas, guión bajo (_) y guiones (-).',
             'Link' => 'Enlace',
